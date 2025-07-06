@@ -1,0 +1,15 @@
+/Users/besteyasak/Desktop/Okul/Proje/FlightInformationApi/FlightInformation/FlightManagement.Application/bin/Debug/net8.0/FlightManagement.Application.deps.json
+/Users/besteyasak/Desktop/Okul/Proje/FlightInformationApi/FlightInformation/FlightManagement.Application/bin/Debug/net8.0/FlightManagement.Application.dll
+/Users/besteyasak/Desktop/Okul/Proje/FlightInformationApi/FlightInformation/FlightManagement.Application/bin/Debug/net8.0/FlightManagement.Application.pdb
+/Users/besteyasak/Desktop/Okul/Proje/FlightInformationApi/FlightInformation/FlightManagement.Application/bin/Debug/net8.0/FlightManagement.Domain.dll
+/Users/besteyasak/Desktop/Okul/Proje/FlightInformationApi/FlightInformation/FlightManagement.Application/bin/Debug/net8.0/FlightManagement.Domain.pdb
+/Users/besteyasak/Desktop/Okul/Proje/FlightInformationApi/FlightInformation/FlightManagement.Application/obj/Debug/net8.0/FlightManagement.Application.csproj.AssemblyReference.cache
+/Users/besteyasak/Desktop/Okul/Proje/FlightInformationApi/FlightInformation/FlightManagement.Application/obj/Debug/net8.0/FlightManagement.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/besteyasak/Desktop/Okul/Proje/FlightInformationApi/FlightInformation/FlightManagement.Application/obj/Debug/net8.0/FlightManagement.Application.AssemblyInfoInputs.cache
+/Users/besteyasak/Desktop/Okul/Proje/FlightInformationApi/FlightInformation/FlightManagement.Application/obj/Debug/net8.0/FlightManagement.Application.AssemblyInfo.cs
+/Users/besteyasak/Desktop/Okul/Proje/FlightInformationApi/FlightInformation/FlightManagement.Application/obj/Debug/net8.0/FlightManagement.Application.csproj.CoreCompileInputs.cache
+/Users/besteyasak/Desktop/Okul/Proje/FlightInformationApi/FlightInformation/FlightManagement.Application/obj/Debug/net8.0/FlightMa.DCA369C0.Up2Date
+/Users/besteyasak/Desktop/Okul/Proje/FlightInformationApi/FlightInformation/FlightManagement.Application/obj/Debug/net8.0/FlightManagement.Application.dll
+/Users/besteyasak/Desktop/Okul/Proje/FlightInformationApi/FlightInformation/FlightManagement.Application/obj/Debug/net8.0/refint/FlightManagement.Application.dll
+/Users/besteyasak/Desktop/Okul/Proje/FlightInformationApi/FlightInformation/FlightManagement.Application/obj/Debug/net8.0/FlightManagement.Application.pdb
+/Users/besteyasak/Desktop/Okul/Proje/FlightInformationApi/FlightInformation/FlightManagement.Application/obj/Debug/net8.0/ref/FlightManagement.Application.dll
