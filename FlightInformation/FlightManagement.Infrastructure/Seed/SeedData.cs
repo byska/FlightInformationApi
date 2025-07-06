@@ -24,7 +24,7 @@ public static class SeedData
             SeatPlan = SeatPlan.ThreeThree,
             MaxPassengers = 180,
             MaxCrew = 6,
-            StandardMenu = StandardMenuType.Standard
+            StandardMenu = "Standart"
         };
 
         var ist = new Airport("Türkiye", "İstanbul", "İstanbul Havalimanı", new AirportCode("IST"));

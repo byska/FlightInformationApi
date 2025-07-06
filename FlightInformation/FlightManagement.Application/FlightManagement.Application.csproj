@@ -2,6 +2,14 @@
 
   <ItemGroup>
     <ProjectReference Include="..\FlightManagement.Domain\FlightManagement.Domain.csproj" />
+   
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="MediatR" Version="13.0.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="9.0.6" />
+
+    
   </ItemGroup>
 
   <PropertyGroup>

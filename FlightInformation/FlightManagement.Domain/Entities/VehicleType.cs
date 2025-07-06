@@ -11,7 +11,7 @@ namespace Entities
 
         public int MaxPassengers { get; set; }
         public int MaxCrew { get; set; }
-        public StandardMenuType StandardMenu { get; set; }
+        public string StandardMenu { get; set; }
 
         public VehicleType()
         {

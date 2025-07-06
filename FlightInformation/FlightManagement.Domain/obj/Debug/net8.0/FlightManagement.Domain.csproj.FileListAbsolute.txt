@@ -5,6 +5,7 @@
 /Users/besteyasak/Desktop/Okul/Proje/FlightInformationApi/FlightInformation/FlightManagement.Domain/obj/Debug/net8.0/FlightManagement.Domain.AssemblyInfoInputs.cache
 /Users/besteyasak/Desktop/Okul/Proje/FlightInformationApi/FlightInformation/FlightManagement.Domain/obj/Debug/net8.0/FlightManagement.Domain.AssemblyInfo.cs
 /Users/besteyasak/Desktop/Okul/Proje/FlightInformationApi/FlightInformation/FlightManagement.Domain/obj/Debug/net8.0/FlightManagement.Domain.csproj.CoreCompileInputs.cache
+/Users/besteyasak/Desktop/Okul/Proje/FlightInformationApi/FlightInformation/FlightManagement.Domain/obj/Debug/net8.0/FlightManagement.Domain.sourcelink.json
 /Users/besteyasak/Desktop/Okul/Proje/FlightInformationApi/FlightInformation/FlightManagement.Domain/obj/Debug/net8.0/FlightManagement.Domain.dll
 /Users/besteyasak/Desktop/Okul/Proje/FlightInformationApi/FlightInformation/FlightManagement.Domain/obj/Debug/net8.0/refint/FlightManagement.Domain.dll
 /Users/besteyasak/Desktop/Okul/Proje/FlightInformationApi/FlightInformation/FlightManagement.Domain/obj/Debug/net8.0/FlightManagement.Domain.pdb

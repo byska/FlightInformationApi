@@ -5,12 +5,19 @@ var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
+builder.Services.AddDbContext<FlightDbContext>(options =>
+    options.UseNpgsql(builder.Configuration.GetConnectionString("FlightDb")));
+builder.Services.AddScoped<IFlightRepository, FlightRepository>();
+builder.Services.AddMediatR(cfg =>
+    cfg.RegisterServicesFromAssemblies(typeof(GetAllFlightsQueryRequest).Assembly));
+
+builder.Services.AddControllers();       
+
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 var app = builder.Build();
 
-builder.Services.AddDbContext<FlightDbContext>(options =>
-    options.UseNpgsql(builder.Configuration.GetConnectionString("FlightDb")));
+
 using (var scope = app.Services.CreateScope())
 {
     var services = scope.ServiceProvider;
@@ -27,7 +34,7 @@ if (app.Environment.IsDevelopment())
 }
 
 app.UseHttpsRedirection();
-
+app.MapControllers();                      
 app.Run();
 
 

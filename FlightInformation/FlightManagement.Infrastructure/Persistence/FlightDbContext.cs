@@ -4,7 +4,7 @@ using Microsoft.EntityFrameworkCore;
 
 namespace FlightManagement.Infrastructure.Persistence
 {
-    public class FlightDbContext : DbContext
+    public class FlightDbContext : DbContext, IUnitOfWork
     {
         public FlightDbContext(DbContextOptions options) : base(options)
         {

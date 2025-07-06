@@ -11,6 +11,7 @@
 /Users/besteyasak/Desktop/Okul/Proje/FlightInformationApi/FlightInformation/FlightManagement.Infrastructure/obj/Debug/net8.0/FlightManagement.Infrastructure.AssemblyInfoInputs.cache
 /Users/besteyasak/Desktop/Okul/Proje/FlightInformationApi/FlightInformation/FlightManagement.Infrastructure/obj/Debug/net8.0/FlightManagement.Infrastructure.AssemblyInfo.cs
 /Users/besteyasak/Desktop/Okul/Proje/FlightInformationApi/FlightInformation/FlightManagement.Infrastructure/obj/Debug/net8.0/FlightManagement.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/besteyasak/Desktop/Okul/Proje/FlightInformationApi/FlightInformation/FlightManagement.Infrastructure/obj/Debug/net8.0/FlightManagement.Infrastructure.sourcelink.json
 /Users/besteyasak/Desktop/Okul/Proje/FlightInformationApi/FlightInformation/FlightManagement.Infrastructure/obj/Debug/net8.0/FlightMa.B10EFF50.Up2Date
 /Users/besteyasak/Desktop/Okul/Proje/FlightInformationApi/FlightInformation/FlightManagement.Infrastructure/obj/Debug/net8.0/FlightManagement.Infrastructure.dll
 /Users/besteyasak/Desktop/Okul/Proje/FlightInformationApi/FlightInformation/FlightManagement.Infrastructure/obj/Debug/net8.0/refint/FlightManagement.Infrastructure.dll
